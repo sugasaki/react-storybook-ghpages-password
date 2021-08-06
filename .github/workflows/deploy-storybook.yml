@@ -17,5 +17,5 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: storybook-static # The folder the action should deploy.
           clean: true
-          target-folder: cbf35bffc1a9c40a824fce901a33f31bbb25cb48
+          target-folder: e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4
           
